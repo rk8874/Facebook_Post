@@ -2,8 +2,8 @@ import requests
 import sys
 import argparse
 import json
-# Below line code use for take the input from the COMMAND_LINE
 
+# Below line code use for take the input from the COMMAND_LINE
 parser = argparse.ArgumentParser()
 parser.add_argument("-file_path", "--Input", help = "Show Output")
 parser.add_argument("-title", "--input", help = "Show Output")
@@ -29,3 +29,4 @@ files={'file':open(path,'rb')}
 flag=requests.post(url, files=files, data=payload, verify=False).text
 print (flag)
 #print("Video Uploaded")
+
