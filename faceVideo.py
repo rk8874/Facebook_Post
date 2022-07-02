@@ -2,6 +2,7 @@ import requests
 import sys
 import argparse
 import json
+# Below line code use for take the input from the COMMAND_LINE
 parser = argparse.ArgumentParser()
 parser.add_argument("-file_path", "--Input", help = "Show Output")
 parser.add_argument("-title", "--input", help = "Show Output")
@@ -11,6 +12,8 @@ args = parser.parse_args()
 Title=args.input
 Description=args.input1
 f = open(args.Input1)
+# upload the json file
+#extract the json file
 data = json.load(f)
 jsonData = data["Facebook"]
 token= jsonData["Access_token"]
