@@ -11,7 +11,7 @@ Create a App on facebook graph API.
 Generate Access_token.
 
 # Json_File 
- In json can be include Page number where want to post video with Access_Token.
+ In json can be include Page number  with Access_Token where want to post video.
 	
 
 
