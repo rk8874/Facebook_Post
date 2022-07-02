@@ -19,7 +19,6 @@ jsonData = data["Facebook"]
 token= jsonData["Access_token"]
 page_Id= jsonData["Page_Id"]
 url='https://graph-video.facebook.com/v14.0/'+page_Id+'/videos'
-#?access_token='+str(token)
 payload = {
     'access_token': token, 
     'title': Title,
