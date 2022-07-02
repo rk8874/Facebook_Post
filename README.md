@@ -3,4 +3,6 @@ Install Python 3
 
  facebook Sdk
  
-
+# Credential
+Create the account on the facebook graph API.
+Create app on facebook graph API.
