@@ -1,4 +1,6 @@
 # Facebook_Post
->>Install Python 3
->> facebook Sdk
+Install Python 3
+
+ facebook Sdk
+ 
 
