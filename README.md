@@ -5,4 +5,7 @@ Install Python 3
  
 # Credential
 Create the account on the facebook graph API.
-Create app on facebook graph API.
+
+Create a App on facebook graph API.
+Generate Access_token.
+ 
