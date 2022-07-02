@@ -6,6 +6,7 @@ from PIL import Image
 import sys
 import argparse
 import json
+#below the code use for taken user input from the command line.
 parser = argparse.ArgumentParser()
 parser.add_argument("-file_path", "--Input", help = "Show Output")
 parser.add_argument("-description", "--input", help = "Show Output")
