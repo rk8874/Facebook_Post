@@ -1,7 +1,8 @@
+#This is json file
 {
   "Facebook": {
-    "Access_token" : "EAAPZBu2k921IBAIcjM5ZCLoYyCBGIwFmrWNnS60dFMSgVCsPFRNntq3CwPs04TZAQl0pm3Cc3SLk69oyETEZBZCrxxEgSZAjcEwcx0ya5CHdRg8rZC0eYODr9rPUwiteqWj5b1DpOxhqLxzPR1CU41foSBXlkbiLsgLkfE5VqIHgk5DYus4pZAgGO3BSGxtdbFgB61vkZAQmfXvN0J4j63f1u",
-    "Page_Id" : "100906229307026",
-    "File_Name" :"o.mp4"
+    "Access_token" : "*******",
+    "Page_Id" : "***",
+    "File_Name" :"***.mp4"
   }
 }
